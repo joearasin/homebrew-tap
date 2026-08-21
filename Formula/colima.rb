@@ -3,10 +3,10 @@ class Colima < Formula
   homepage "https://github.com/joearasin/colima"
 
   url "https://github.com/joearasin/colima.git",
-      tag:      "v0.10.3-xfs.1",
-      revision: "91fe8d486645cc7735f58f7261addfbce9c33d6e"
+      tag:      "v0.10.3-xfs.2",
+      revision: "5f823d5a6ddbc3ab60c28fa4ce5447b672b619da"
 
-  version "0.10.3-xfs.1"
+  version "0.10.3-xfs.2"
   license "MIT"
 
   depends_on "go" => :build
